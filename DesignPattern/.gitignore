@@ -1,0 +1,26 @@
+*target
+target/
+*.idea
+*.settings
+*.iml
+*.classpath
+*.project
+*.mymetadata
+*.zip
+*.7z
+bin/
+
+
+#Intelij IDEA
+*.MF
+*.class
+
+bin
+
+/my-distribute
+
+/config
+/logs
+/.idea
+/deploy/logs
+/web/logs/*.log
